@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @budindepunk
 - 👀 I’m interested in linguistics, some poetry and my cat
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working in QA and exploring Python in downtimes
 - 💞️ I’m looking to collaborate on anything that helps me learn 🥺
 - 📫 You can reach me at carolinasilvarode@gmail.com
 
