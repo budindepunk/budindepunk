@@ -1,6 +1,6 @@
 👋 Hi, I’m Carolina
 - I'm  a speculative poet from Montevideo, Uruguay 🇺🇾. I've published a few books and dip my toes in whatever artform comes around
-- I'm currently learning C at 42 Berlin :)
+- I'm currently studying at 42 Berlin :)
 - I love social media and am in almost all of them so reach out wherever if you want to teach or learn or share or exchange: </br>
   <ul></br>
   <li>🐦 @budindepunk at Twitter</li>
