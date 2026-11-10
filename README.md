@@ -1,7 +1,6 @@
 🪰 Caro Silva Rode
 
 Poet\
-Technical Writing Intern @ JetBrains
 
 From Montevideo, in Berlin.
 🇪🇸 / 🇬🇧 / 🇩🇪
